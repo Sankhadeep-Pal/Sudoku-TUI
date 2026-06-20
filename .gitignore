@@ -1,0 +1,15 @@
+# Compiled Binaries & Executables
+sudoku
+*.exe
+*.out
+
+# Object & Translation files (Intermediate compilation states)
+*.o
+*.obj
+
+# Dynamic State & Local Save Data 
+assets_data/sudoku.bin
+
+# OS generated system junk
+.DS_Store
+Thumbs.db
